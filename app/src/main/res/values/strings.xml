@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentPreference</string>
+    <string-array name="example">
+        <item>Alpha Option 01</item>
+        <item>Beta Option 02</item>
+        <item>Charlie Option 03</item>
+    </string-array>
+</resources>
