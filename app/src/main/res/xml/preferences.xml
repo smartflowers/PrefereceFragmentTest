@@ -7,6 +7,7 @@
         <CheckBoxPreference
             android:title="Checkbox preference"
             android:summary="This is a checkbox"
+            android:key="cbp1"
             />
     </PreferenceCategory>
     <PreferenceCategory android:title="Dialog-based preference">
@@ -14,6 +15,7 @@
             android:title="Edit text preference"
             android:dialogTitle="Enter your favorite animal"
             android:summary="An example that uses an edit text dialog"
+            android:key="etp1"
             />
         <ListPreference
             android:title="List preference"
@@ -23,15 +25,19 @@
             android:entryValues="@array/example"
             />
     </PreferenceCategory>
-    <PreferenceCategory android:title="Launch preferences">
+    <PreferenceCategory android:title="Launches preference">
+
         <PreferenceScreen
             android:title="Screen preference"
-            android:summary="show another screen of preferences">
+            android:summary="show another screen of preferences"
+            >
             <CheckBoxPreference
                 android:title="Toggle preference"
                 android:summary="Preference that is on the next screen but same hierarchy"
+                android:key="cbp2"
                 />
         </PreferenceScreen>
+
         <PreferenceScreen
             android:title="Intent preference"
             android:summary="Launches a activity from a intent ">
@@ -43,10 +49,12 @@
         <CheckBoxPreference
             android:key="parent"
             android:title="Parent checkbox preference"
-            android:summary="This is visually a parent"/>
+            android:summary="This is visually a parent"
+            />
         <CheckBoxPreference
             android:dependency="parent"
             android:title="Child checkbox preference"
-            android:summary="This is visually a child"/>
+            android:summary="This is visually a child"
+            android:key="cbp3"/>
     </PreferenceCategory>
 </PreferenceScreen>
