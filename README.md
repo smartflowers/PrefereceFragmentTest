@@ -92,7 +92,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 # 实验截图
 ## 主界面
-![](https://github.com/smartflowers/PrefereceFragmentTest/blob/master/pictures/generalperspect1.jpg)
+<img src=https://github.com/smartflowers/PrefereceFragmentTest/blob/master/pictures/generalperspect1.jpg width="100" />
+
 ![](https://github.com/smartflowers/PrefereceFragmentTest/blob/master/pictures/generalperspect2.jpg)
 ## EditText Dialog
 ![](https://github.com/smartflowers/PrefereceFragmentTest/blob/master/pictures/editdialog.jpg)
