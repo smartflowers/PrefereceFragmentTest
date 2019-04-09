@@ -92,15 +92,14 @@ public class MainActivity extends AppCompatActivity {
 ```
 # 实验截图
 ## 主界面
-<img src=https://github.com/smartflowers/PrefereceFragmentTest/blob/master/pictures/generalperspect1.jpg width="100" />
-
-![](https://github.com/smartflowers/PrefereceFragmentTest/blob/master/pictures/generalperspect2.jpg)
+<img src=https://github.com/smartflowers/PrefereceFragmentTest/blob/master/pictures/generalperspect1.jpg width="200" />
+<img src=https://github.com/smartflowers/PrefereceFragmentTest/blob/master/pictures/generalperspect2.jpg width="200" />
 ## EditText Dialog
-![](https://github.com/smartflowers/PrefereceFragmentTest/blob/master/pictures/editdialog.jpg)
+<img src=https://github.com/smartflowers/PrefereceFragmentTest/blob/master/pictures/editdialog.jpg width="200" />
 ## List Dialog
-![](https://github.com/smartflowers/PrefereceFragmentTest/blob/master/pictures/listdialog.jpg)
+<img src=https://github.com/smartflowers/PrefereceFragmentTest/blob/master/pictures/listdialog.jpg width="200" />
 ## 跳转到另一个PreferenceScreen
-![](https://github.com/smartflowers/PrefereceFragmentTest/blob/c27563d18da70ca943dfd6712197cf5ff905ff9a/pictures/jump.jpg)
+<img src=https://github.com/smartflowers/PrefereceFragmentTest/blob/c27563d18da70ca943dfd6712197cf5ff905ff9a/pictures/jump.jpg width="200" />
 ## 父选项勾选子选项可选
-![](https://github.com/smartflowers/PrefereceFragmentTest/blob/master/pictures/dependencyinit.jpg)
-![](https://github.com/smartflowers/PrefereceFragmentTest/blob/master/pictures/dependencychange.jpg)
+<img src=https://github.com/smartflowers/PrefereceFragmentTest/blob/master/pictures/dependencyinit.jpg width=200 />
+<img src=https://github.com/smartflowers/PrefereceFragmentTest/blob/master/pictures/dependencychange.jpg width=200 />
