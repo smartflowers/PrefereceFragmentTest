@@ -26,7 +26,6 @@
             />
     </PreferenceCategory>
     <PreferenceCategory android:title="Launches preference">
-
         <PreferenceScreen
             android:title="Screen preference"
             android:summary="show another screen of preferences"
@@ -37,7 +36,6 @@
                 android:key="cbp2"
                 />
         </PreferenceScreen>
-
         <PreferenceScreen
             android:title="Intent preference"
             android:summary="Launches a activity from a intent ">
